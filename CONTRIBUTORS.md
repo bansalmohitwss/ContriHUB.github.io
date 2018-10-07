@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Mohit Bansal](https://github.com/bansalmohitwss)
+- Place: Allahabad, Uttar Pradesh
+- Bio:  CSE@MNNIT2021
+- Github: [bansalmohitwss](https://github.com/bansalmohitwss)
